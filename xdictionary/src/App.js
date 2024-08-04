@@ -1,8 +1,9 @@
 import './App.css';
+import Dictionary from './component/Dictionary';
 
 function App() {
   return (
-    <h1>HI XDictionary</h1>
+    <Dictionary/>
   );
 }
 
